@@ -1,6 +1,7 @@
 body {
-    background-color: #1B1A17;
+
     color: #FFCE45;
+    background-image: url(../img/PWTbg.jpeg);
     
 }
 
@@ -18,6 +19,12 @@ table{
     width: 100%;
 }
 
+.PSNS{
+    border: none;
+    height: 5px;
+    width: 35%;
+    
+}
 
 .Heading{
     display:inline-block;
@@ -41,7 +48,7 @@ table{
     background-color:#FFCE45;
     color:black;
     border-radius: 10px;
-    width: 220px;
+    width: 200px;
 }
 
 .NintendoSwitchh3{
@@ -50,7 +57,7 @@ table{
     background-color:#FFCE45;
     color:black;
     border-radius: 10px;
-    width: 220px;
+    width: 200px;
 }
 
 .ToBuyGamesh3{
