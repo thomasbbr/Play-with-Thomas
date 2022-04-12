@@ -2,8 +2,20 @@ body {
 
     color: #FFCE45;
     background-image: url(../img/PWTbg.jpeg);
-    
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
 }
+
+.div1{
+    background-color: #FFCE45;
+    padding-top: 10px;
+    width: 100%;
+    border-bottom-left-radius: 80px;
+    border-bottom-right-radius: 80px;
+    margin-bottom: 100px;
+}
+
 
 hr{
     border-style: dotted none none;
@@ -11,12 +23,10 @@ hr{
     border-width: 7px;
     width: 10%;
 }
-img{
-    height: 150px;
-}
-table{
-    border: 2px solid #FFCE45;
-    width: 100%;
+
+
+h3 :hover{
+    background-color: #FF8C32;
 }
 
 .PSNS{
